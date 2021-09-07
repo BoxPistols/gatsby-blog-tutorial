@@ -1,3 +1,6 @@
+[manual](https://addapter.co.jp/blog/gatsbyjs-blog-create)
+https://github.com/NearCloser/gatsby-blog-tutorial
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
